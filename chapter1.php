@@ -1,5 +1,7 @@
 <?php
 
-
-echo 'This is a new php file';
-
+$myArray = [
+    ['x','o','x'],
+    ['o','x','o'],
+    ['x','o','x'],
+];
